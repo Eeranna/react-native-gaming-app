@@ -3,7 +3,7 @@ import Title from "../components/ui/Title";
 import { Colors } from "react-native/Libraries/NewAppScreen";
 import PrimaryButton from "../components/ui/PrimaryButton";
 
-
+/*Gaming application*/
 function GameOverScreen({roundsNumber, userNumber, onStartNewGame}) {
     return (
         <View style={styles.rootContainer}>
